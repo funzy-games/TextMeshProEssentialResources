@@ -1,0 +1,9 @@
+{
+  "name": "funzygames.textmeshpro.essentialresources",
+  "displayName": "FunzyGames.TMPEssentialResources",
+  "unity": "2020.1",
+  "description": "Funzy Games TMP Essential Resources",
+  "version": "1.0.0",
+  "dependencies": {
+  }
+}
